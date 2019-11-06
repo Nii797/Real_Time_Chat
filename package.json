@@ -1,0 +1,17 @@
+{
+  "name": "realtimechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Soni",
+  "license": "ISC"
+}
